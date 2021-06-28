@@ -1,0 +1,8 @@
+{
+  "name": "Dai Stablecoin",
+  "chainId": 256,
+  "symbol": "DAI",
+  "decimals": 18,
+  "address": "0x60d64Ef311a4F0E288120543A14e7f90E76304c6",
+  "logoURI": "https://s2.bqiapp.com/logo/1/dai.png?x-oss-process=style/coin_72&v=1591258541"
+}
